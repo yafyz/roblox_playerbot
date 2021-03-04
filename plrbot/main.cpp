@@ -9,7 +9,6 @@ int main()
     out::updateBGColor();
 
     SetConsoleTitleA("fyz's shitty playerbot");
-    out::info("Consider donating some BTC to bc1qpxh9vkx4w2r2vcu3ynz7aukfds6szuaut9553z\n\n");
 
     config::cconfig conf;
     rbx::roblox roblox;
